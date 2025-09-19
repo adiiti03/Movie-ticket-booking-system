@@ -1,3 +1,4 @@
+
 # Movie Ticket Booking System
 
 ## Overview
@@ -18,29 +19,33 @@ It allows users to **browse movies, select showtimes, and book tickets** efficie
 ---
 
 ## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+
+1. Clone this repository:  
+```bash
+git clone https://github.com/YourUsername/YourRepoName.git
 ````
 
 2. Navigate to the project folder:
 
-   ```bash
-   cd MovieTicketBookingSystem
-   ```
+```bash
+cd MovieTicketBookingSystem
+```
+
 3. Compile and run:
 
-   ```bash
-   g++ main.cpp -o MovieTicketBookingSystem.exe
-   ./MovieTicketBookingSystem.exe
-   ```
+```bash
+g++ main.cpp -o MovieTicketBookingSystem.exe
+./MovieTicketBookingSystem.exe
+```
 
 ---
 
 ## Usage
 
-* Run the program.
-* Follow on-screen instructions to browse movies, select seats, and book tickets.
+Run the program and follow on-screen instructions to:
+
+* Browse movies.
+* Select seats and book tickets.
 * Admins can manage movies and shows via the admin menu.
 
 ---
@@ -50,6 +55,6 @@ It allows users to **browse movies, select showtimes, and book tickets** efficie
 * Programming Language: C++
 * Tools: VS Code, Git, GitHub
 
-
-Do you want me to do that?
 ```
+
+
