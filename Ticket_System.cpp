@@ -250,7 +250,7 @@ int entrypoint::cancellation() {
     int k; cin >> k;
 
     if (k <= 0 || k >= bill_id) {
-        cout << "\nâŒ Invalid Bill ID!";
+        cout << "\n Invalid Bill ID!";
         sleep(2);
         user_menu();
         return 0;
